@@ -1,0 +1,19 @@
+body{background-color: lab(35.06% 59.07 1.71);
+color: rgb(65, 206, 225);
+font-size:"100px";
+
+p{
+    color:#5bb483; font-size: 50px;
+     text-align: center;
+    display: block;
+    text-decoration: none;
+}
+
+.divGral{
+    background-color: lab(74.31% 28.08 -31.03);
+    border-style: none;
+    margin: 0px;
+    padding: 10px;
+}
+
+}

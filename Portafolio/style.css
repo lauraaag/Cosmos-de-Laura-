@@ -1,5 +1,5 @@
-body{background-color: #991440;
-color: rgb(206, 65, 225);
+body{background-color: lab(35.06% 59.07 1.71);
+color: rgb(65, 206, 225);
 font-size:"100px";
 }
 
@@ -7,7 +7,7 @@ h1{
     color: #fffb00;
 }
 p{
-    color:#d1b8f3; font-size: 25px;
+    color:#5bb483; font-size: 25px;
 }
 
 div{
@@ -21,6 +21,27 @@ div{
     margin: 50px;
 }
 
-img {
+.imgRound{
   border-radius: 50%;
+}
+
+.fotos{ 
+    background-color: #d1b8f3;
+    border-style: none;
+    margin: 0px;
+    padding: 10px;
+    display: flex;
+    justify-content: left;
+
+}
+
+a{
+    color: beige;
+}
+
+.divGral{
+    background-color: lab(74.31% 28.08 -31.03);
+    border-style: none;
+    margin: 0px;
+    padding: 10px;
 }

@@ -1,0 +1,23 @@
+body
+{
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000;
+}
+
+body
+{
+    background-color: hsla(276, 72%, 56%, 0.767);
+    color: rgb(0, 0, 0);
+    font-size:"1000px";
+}
+
+a{
+    font-size: 1000%;
+    text-decoration: none;
+    color: rgb(6, 37, 138);
+}
+
+
+
